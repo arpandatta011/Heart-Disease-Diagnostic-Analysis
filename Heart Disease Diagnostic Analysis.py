@@ -94,8 +94,3 @@ def age_range (row):
 Heart['Age_range'] = Heart['age'].apply(age_range)
 
 Heart.head()
-
-
-
-
-
