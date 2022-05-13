@@ -6,7 +6,9 @@ Matplotlb,
 Seaborn,
 
 #Extracting CSV Dataset From System using Pandas Library
+
 #All Columns in the Dataset
+
 #Percentage of people having Heart Disease
 #Converting Numerical Data into Categorical Data
 #Applying converted data into our dataset with new column - Heart_Disease
