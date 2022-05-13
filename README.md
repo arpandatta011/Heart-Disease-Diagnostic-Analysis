@@ -1,9 +1,9 @@
 # Heart-Disease-Diagnostic-Analysis
 #Importing Python Libraries
-Pandas
-numpy
-Matplotlb
-Seaborn
+Pandas,
+numpy,
+Matplotlb,
+Seaborn,
 
 #Extracting CSV Dataset From System using Pandas Library
 #All Columns in the Dataset
