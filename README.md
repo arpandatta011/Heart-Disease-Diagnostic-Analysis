@@ -1,18 +1,18 @@
 # Heart-Disease-Diagnostic-Analysis 
 
-Tools 🛠
+#Tools 🛠
 
 Jupyter Notebook, MS Excel, MS Power BI
 
-Poblem Statement ❓
+#Poblem Statement ❓
 
 Health is real wealth in the pandemic time we all realized the brute effects of covid 19 on all irrespective of any status. You are required to analyse this health and medical data for better future preparation.
 
-Domain 🏥
+#Domain 🏥
 
 Healthcare
 
-Conclusion 💡
+#Conclusion 💡
 
 45.87% People suffering from heart disease.
 
