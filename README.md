@@ -72,10 +72,3 @@ ST depression mostly increases between the age group of 30 40.
 
 
 
-
-
-
-
-
-
-
