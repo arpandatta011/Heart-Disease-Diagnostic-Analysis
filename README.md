@@ -1,5 +1,7 @@
 # Heart-Disease-Diagnostic-Analysis 
 
+The goal of this project is to analyse the heart disease occurrence, based on a combination of features that describes the heart disease.
+
 # Tools 🛠
 
 Jupyter Notebook, MS Excel, MS Power BI
